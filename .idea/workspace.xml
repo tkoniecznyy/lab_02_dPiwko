@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcb85702-1944-47cf-8102-515e26fec46f" name="Default Changelist" comment="" />
+    <list default="true" id="fcb85702-1944-47cf-8102-515e26fec46f" name="Default Changelist" comment="commit with bootstrap">
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +15,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1pLJy5Y0HcTHdsdkiSSyTFIa1vR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,11 +50,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614956688837</updated>
-      <workItem from="1614956689878" duration="180000" />
+      <workItem from="1614956689878" duration="1880000" />
     </task>
+    <task id="LOCAL-00001" summary="commit with bootstrap">
+      <created>1614957097049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614957097049</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit with bootstrap">
+      <created>1614957234125</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614957234125</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit with bootstrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit with bootstrap" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1614957182247">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1614957182247" />
+    <state x="542" y="348" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1614957059084">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="542" y="348" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1614957059084" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1614958182395">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1614958182395" />
   </component>
 </project>

@@ -1,0 +1,60 @@
+body {
+    margin: 50px auto 0;
+    width: 60%;
+    height: 100px;
+    background-color: #b1c5c5;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+body {
+    padding-top: 60px;
+}
+
+ul  {
+    list-style-type: none;
+}
+
+ol li {
+    color: #ff0000;
+}
+ .img {
+     width: 100px;
+     height: auto;
+ }
+
+
+table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+thead {
+    font-weight: bold;
+    text-align: left;
+}
+th, td {
+    padding: 4px 0;
+}
+tr:nth-child(even) {
+    background-color: #cecece;
+}
+
+
+
+.top {
+    position: fixed;
+    height: 60px;
+    width: 300px;
+    top: 0;
+    background-color: lightgreen;
+}
+
+p {
+    background-color: lightblue;
+}
+span {
+    background-color: lightgreen;
+}
